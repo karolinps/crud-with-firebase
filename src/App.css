@@ -1,0 +1,21 @@
+.container-layout {
+  text-align: center;
+  margin: 0 25px;
+}
+
+.top-header {
+  padding: 20px;
+  margin: 20px 5px;
+  background-color: #b93131;
+}
+.top-header h3 {
+  color: #fff;
+}
+.container-layout .ant-card {
+  background-color: #13646c;
+  color: #fff;
+  margin: 5px;
+}
+.container-layout button {
+  margin: 0 5px;
+}
